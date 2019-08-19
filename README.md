@@ -16,4 +16,8 @@ https://www.howtoforge.com/tutorial/install-laravel-on-ubuntu-for-apache/<br>
 若分配给某个文件所有权限，则利用下面的命令：<br>
 <br>
 sudo chmod -R 777 文件或文件夹的名字  # 表示对当前目录及目录下所有的文件赋予可读可写可执行<br>
+<br>
+
+添加mysql driver
+sudo apt install php7.3-mysql
 
